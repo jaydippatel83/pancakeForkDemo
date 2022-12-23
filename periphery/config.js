@@ -1,0 +1,2 @@
+export const pancakeRouterAddress="0x7Dadc9C30b040c74e847B48F8E4E60fb9B748EeE";
+export const wethAddress="0x4AAFc3545FF5ea4E841aCbac6Ca74c85f0c5613B";
